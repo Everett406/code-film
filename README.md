@@ -1,3 +1,9 @@
+---
+
+> [!NOTE]
+> **本仓库已迁移至 Gitee**：<https://gitee.com/Everett5678/code-film>
+> GitHub 端仅作只读归档，新代码请推送到 Gitee。
+
 # code-film · 用代码拍片的总导演
 
 > A director-level agent skill for code-generated video with **Remotion** — story, storyboard, rhythm, style, motion, camera, sound, rendering and QA.
